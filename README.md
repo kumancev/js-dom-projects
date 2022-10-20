@@ -25,3 +25,9 @@ A game with 3 screens:
 
 ![Aimgame](https://media.giphy.com/media/2dSBSADXfNf2QQ8m56/giphy.gif)
 
+### [Colours](https://github.com/kumancev/js-dom-projects/tree/main/colours)
+Mini color matching service clone
+
+![Colours](https://media.giphy.com/media/OgYlYUjRcajCv7T7cG/giphy.gif) 
+
+*Site: https://set-colours.netlify.app*
